@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator>
+  <link href="https://delephant44.github.io/freelancer-theme//https://delephant44.github.io/freelancer-theme/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://delephant44.github.io/freelancer-theme//https://delephant44.github.io/freelancer-theme/" rel="alternate" type="text/html" />
+  <updated>2020-06-24T14:40:10-07:00</updated>
+  <id>https://delephant44.github.io/freelancer-theme//https://delephant44.github.io/freelancer-theme/</id>
+
+  
+    <title type="html">Adel Jabbar</title>
+  
+
+  
+    <subtitle>Adel Jabbar - Full Stack Software Engineer</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Adel Jabbar</title>
+      <link href="https://delephant44.github.io/freelancer-theme//https://delephant44.github.io/freelancer-theme/" rel="alternate" type="text/html" title="Adel Jabbar" />
+      <published>2020-02-01T00:00:00-08:00</published>
+      <updated>2020-02-01T00:00:00-08:00</updated>
+      <id>https://delephant44.github.io/freelancer-theme//https://delephant44.github.io/freelancer-theme/project-1</id>
+      <content type="html" xml:base="https://delephant44.github.io/freelancer-theme//https://delephant44.github.io/freelancer-theme/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 2</title>
+      <link href="https://delephant44.github.io/freelancer-theme//https://delephant44.github.io/freelancer-theme/" rel="alternate" type="text/html" title="Project 2" />
+      <published>2020-02-01T00:00:00-08:00</published>
+      <updated>2020-02-01T00:00:00-08:00</updated>
+      <id>https://delephant44.github.io/freelancer-theme//https://delephant44.github.io/freelancer-theme/project-2</id>
+      <content type="html" xml:base="https://delephant44.github.io/freelancer-theme//https://delephant44.github.io/freelancer-theme/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
